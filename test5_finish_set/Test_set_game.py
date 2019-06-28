@@ -8,5 +8,5 @@ cards1 = [['3', 'OVAL', 'SOLID', 'RED'], ['3', 'OVAL', 'OPEN', 'GREEN'], ['3', '
 
 
 def test_check_set():
-    assert set_igra.check_set(cards1) == True,bool
+    assert set_igra.check_set(cards1) == True, bool
 

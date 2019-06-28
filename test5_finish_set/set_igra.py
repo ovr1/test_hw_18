@@ -25,5 +25,3 @@ def check_set(cards):
 
 
 
-cards = [['2', 'OVAL', 'OPEN', 'RED'], ['3', 'SQUIGGLE', 'OPEN', 'PURPLE'], ['3', 'OVAL', 'STRIPPED', 'RED']]
-print(check_set(cards))
