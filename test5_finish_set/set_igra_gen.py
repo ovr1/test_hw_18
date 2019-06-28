@@ -33,6 +33,7 @@ while n <3:
 
     y.append(a)
 cards = y
+print(y)
 
 namber_n = []
 namber_s = []
