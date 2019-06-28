@@ -1,0 +1,2 @@
+import set_igra_gen
+import pytest
